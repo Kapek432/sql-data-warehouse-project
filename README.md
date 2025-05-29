@@ -1,7 +1,3 @@
-Certainly! Here's an updated **README.md** for your Data Warehouse and Analytics project, incorporating a reference to the YouTube tutorial you followed while emphasizing your independent implementation:
-
----
-
 # 🏗️ Data Warehouse and Analytics Project
 
 Welcome to my **Data Warehouse and Analytics Project** repository! 🚀
