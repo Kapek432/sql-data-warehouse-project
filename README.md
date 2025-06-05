@@ -64,10 +64,6 @@ data-warehouse-project/
 │   ├── silver/                   # Clean and transform
 │   ├── gold/                     # Star schema creation
 │
-├── docs/                         # Architecture diagrams and more
-│
-├── tests/                        # SQL testing and data validation
-│
 ├── README.md                     # This file
 ```
 
